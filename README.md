@@ -3,10 +3,10 @@ Hey, I'm NoWorriesEh!
 
 Welcome to my place on the git-i-verse.
 
-Helm Charts: noworrieseh.github.io/helm-charts
-Homebrew Tap: noworrieseh/brews
-MacPorts: [Maintainer](https://ports.macports.org/search/?selected_facets=maintainers_exact:noworrieseh)
-crates: [Maintainer](https://crates.io/users/noworrieseh)
+- Helm Charts: noworrieseh.github.io/helm-charts
+- Homebrew Tap: noworrieseh/brews
+- [MacPorts](https://ports.macports.org/search/?selected_facets=maintainers_exact:noworrieseh)
+- [crates.io](https://crates.io/users/noworrieseh)
 
 Experience:
 - 20+ years Java @ SIEM company
