@@ -20,6 +20,7 @@ Personal Projects:
 - [macdisp](https://github.com/noworrieseh/macdisp): Recent side-quest with resolution cli and notch support to learn rust
 
 Project Leanings:
+- Have an idea on how to add internal NVME drive to Macbook Pro (Apple Silicon).  More on this soon.
 - Working on tool to simplify interaction with REST API's.  No API wrappers needed
 - Building out various infrastucture projects (Docker, caddy, mailserver, SSO, tailscale, k8s)
 - Tools to make older macos systems (like PPC) more usable.
